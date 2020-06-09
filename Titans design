@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HotelGH-Luxury at its finest</title>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="Titansdesigncss">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+	</head>
+<body>
+     <div class="container">
+		<div class="middle"> 
+    			<p class="text"> <span class="big">Start your Journey to Comfort and Luxury </span>
+    	   		</br>We pride ourselves in providing nothing but the best in world class luxury for all our guest. Your comfort is our topmost priority.</p>
+			<div id="image1"> <img src="img1.jpg" width="540px" height="400px"></div>
+    	</div>
+    	<div class="pic">
+    	<div id="image2"><img src="img2.jpg" width="240" height="400"></div>
+    	<div id="image3"><img src="img3.jpg" width="240" height="400"></div>
+    	<div id="image4"> <img src="img4.jpg" width="500" height="250"></div>
+    </div>
+</div>
+<div class="row">
+<div class="column">
+<i class='fas fa-map-marker-alt' style='font-size:36px'></i>
+<h5><b>Pick a location</b></h5>
+     <p>Pick from any of our locations </br>all over the world</p>
+	 </div>
+	 <div class="column">
+<i class='far fa-check-square' style='font-size:36px'></i>
+<h5><b>Book a Room</b></h5>
+  <p>Pick from any of our locations </br>all over the world</p>
+  	 </div>
+  <div class="column">
+<i class='fas fa-star' style='font-size:36px'></i>
+<h5><b>Live your best life</b></h5>
+  <p>Pick from any of our locations </br>all over the world</p>
+  	 </div>
+</div>
+
+<h2><b><big> A few of our most requested rooms</big></b></h2>
+<div class="row">
+    <div class="column">
+    	<div id="image5"><img src="img2.jpg" width="240" height="400"></div>
+        <h3><b>Executive Room</b></h3>
+		<span class="fa fa-star checked"></span>
+		<span class="fa fa-star checked"></span>
+		<span class="fa fa-star checked"></span>
+		<span class="fa fa-star checked"></span>
+		<span class="fa fa-star checked"></span>
+        <h6 class="w3-opacity">Our Executive Room allows guest to relax ina large lounge area with natural light, enjoy an extensive selection of drinks from the minibar and browse a range of daily newspaper and magazine.</h6>
+        <p><b>Start from:<span style="color:blue"> N40,000</span></b><small> per day</small></p>
+      </div>
+    <div class="column">
+    	<div id="image6"><img src="img2.jpg" width="240" height="400"></div>
+       <h3><b>Executive Twin Room</b></h3>
+	   <span class="fa fa-star checked"></span>
+		<span class="fa fa-star checked"></span>
+		<span class="fa fa-star checked"></span>
+		<span class="fa fa-star checked"></span>
+		<span class="fa fa-star checked"></span>
+        <h6 class="w3-opacity">Our Executive Room allows guest to relax ina large lounge area with natural light, enjoy an extensive selection of drinks from the minibar and browse a range of daily newspaper and magazine.</h6>
+        <p><b>Start from:<span style="color:blue"> N50,000</span></b><small> per day</small></p>
+			<button type="button" class=" _btn-black">See More</button>
+      </div>
+    <div class="column">
+    	<div id="image6"><img src="img2.jpg" width="240" height="400"></div>
+        <h3><b>Presidential Room</b></h3>
+		<span class="fa fa-star checked"></span>
+		<span class="fa fa-star checked"></span>
+		<span class="fa fa-star checked"></span>
+		<span class="fa fa-star checked"></span>
+		<span class="fa fa-star checked"></span>
+        <h6 class="w3-opacity">The expansive Presidential Suite boasts a separate living area and two bedrooms, ideal for families and friends. Enjoy a hot drink from the coffee machine. while unwinding in your bathrobe and slippers after a day of sightseeing.</h6>
+        <p><b>Start from:<span style="color:blue"> N120,000</span></b><small> per day</small></p>
+      </div>
+    </div>
+	<div class="column">
+  </div>
+</body>
+</html> 
